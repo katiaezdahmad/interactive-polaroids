@@ -4,6 +4,12 @@ html {
   font-family: sans-serif;
 }
 
+body {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
 .polaroid {
   margin: 0;
   padding: 10px;
